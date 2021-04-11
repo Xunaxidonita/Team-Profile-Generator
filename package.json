@@ -1,0 +1,29 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "bootstrap-icons": "^1.4.1",
+    "inquirer": "^8.0.0",
+    "jest": "^25.5.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xunaxidonita/Team-Profile-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xunaxidonita/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/Xunaxidonita/Team-Profile-Generator#readme"
+}
