@@ -18,6 +18,10 @@ https://xunaxidonita.github.io/Team-Profile-Generator/
 
 Made with ❤️ by Xunaxidonita
 
+## Link Example of HTML Generated:
+
+[team.html](./dist/team.html)
+
 ## Screenshot
 
 [![screenshotprofilegen.png](https://i.postimg.cc/xTGhLN1W/screenshotprofilegen.png)](https://postimg.cc/GH2XC2YQ)
